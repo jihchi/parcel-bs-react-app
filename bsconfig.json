@@ -1,0 +1,21 @@
+{
+  "name": "parcel-bs-react-app",
+  "reason": {
+     "react-jsx": 2
+  },
+  "sources": {
+    "dir": "src",
+    "subdirs": true
+  },
+  "package-specs": {
+    "module": "commonjs",
+    "in-source": true
+  },
+  "suffix": ".bs.js",
+  "bs-dependencies": [
+    "bs-react"
+  ],
+  "namespace": true,
+  "refmt": 3
+}
+

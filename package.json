@@ -1,0 +1,16 @@
+{
+  "name": "parcel-bs-react-app",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "react": "^16.7.0-alpha.2",
+    "react-dom": "^16.7.0-alpha.2"
+  },
+  "devDependencies": {
+    "bs-platform": "^4.0.14",
+    "bs-react": "^0.0.8",
+    "parcel-bundler": "^1.11.0"
+  }
+}
